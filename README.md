@@ -12,4 +12,5 @@ This module has the biggest changes to gameplay, including freecam, WorldEdit (f
 If you want to use the complete pack (all 4 modules), install this.
 
 ---
+# Installation
 In order to install these modules, simply copy the `.jar` files from the downloaded `.zip` file into your mods folder. A few mods are included in multiple modules, so just overwrite or skip duplicate files.
